@@ -37,7 +37,7 @@ plugins:
 # Added as per github pages doc
 domain: mknithin.github.io
 url: https://mknithin.github.io
-baseurl: /
+# baseurl: /
 
 
 # Exclude from processing.
