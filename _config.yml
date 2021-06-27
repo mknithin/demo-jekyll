@@ -35,8 +35,8 @@ plugins:
   - jekyll-feed
 
 # Added as per github pages doc
-domain: demo-jekyll.github.io
-url: https://demo-jekyll.github.io
+domain: mknithin.github.io
+url: https://mknithin.github.io
 baseurl: /
 
 
